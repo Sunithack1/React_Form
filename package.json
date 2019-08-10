@@ -29,15 +29,6 @@
     "scss-loader": "0.0.1",
     "style-loader": "^0.23.1",
     "webpack-cli": "^3.3.6"
-  },
-  "babel": {
-    "presets": [
-      "es2015",
-      "react",
-      "stage-0"
-    ],
-    "plugins": [
-      "transform-object-rest-spread"
-    ]
   }
+ 
 }
